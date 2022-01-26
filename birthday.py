@@ -1,7 +1,8 @@
 from datetime import date
 import time
 print("Welcome")
-name = input("What is your name")
+name = input("What is your name: ")
+ssn = input("What is your Social security number: ")
 m = input("Enter your birth month: ")
 d = input("Enter your birth day: ")
 y = input("Enter your birth year: ")
