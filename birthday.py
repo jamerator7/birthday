@@ -19,3 +19,4 @@ cy = td_arr[0]
 cm = td_arr[1]
 cd = td_arr[2]
 print(cy + "-" + cm + "-" + cd)
+time.sleep(2)
